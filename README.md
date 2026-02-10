@@ -6,8 +6,11 @@ I help SMEs embrace digital transformation.
 Currently exploring C++, HTML, JavaScript, CSS, and Python.
 
 Fun fact: 
+
   ‣ I'm an overthinker
+  
   ‣ I dislike cigarette smoke
+  
   ‣ My hobbies include cycling, fishing, and crafting
 <!--
 **gadizpumpkin/gadizpumpkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
