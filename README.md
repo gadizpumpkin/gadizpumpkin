@@ -1,5 +1,6 @@
 ## Hi there 👋
 I'm Sepi Ananda, a junior system analyst from Indonesia.
+
 I help SMEs embrace digital transformation.
 Currently exploring C++, HTML, JavaScript, CSS, and Python.
 Fun fact: 
